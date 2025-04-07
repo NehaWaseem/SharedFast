@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:layout_marginTop="50dp"
+    android:layout_marginTop="30dp"
+    android:background="#371A4A"
     android:padding="8dp">
 
     <!-- Top bar with Logo and Search -->
@@ -12,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+        android:background="#AC7CC7"
         android:gravity="center_vertical">
 
         <ImageView
